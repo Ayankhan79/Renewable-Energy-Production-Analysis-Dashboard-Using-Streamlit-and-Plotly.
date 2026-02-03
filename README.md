@@ -1,4 +1,5 @@
-Renewable Energy Production Analysis Dashboard | Python, Streamlit, Pandas, Plotly
+Renewable Energy Production Analysis Dashboard 
+| Python, Streamlit, Pandas, Plotly |
 
 
 Built an interactive data analytics dashboard to visualize renewable energy trends across countries
